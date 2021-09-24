@@ -21,7 +21,8 @@
   for bucket in s3.buckets.all():
     print(bucket.name)
   ```
-
+    Test programmatic access
+    ![](imgs/test-programmatic-bucket-access.png)
 # Step 1: VPC, Subnets and Security Groups
 ## Step 1.1: Create a directory structure and set up Terraform CLI
 - Create a folder named PBL and a file called main.tf
