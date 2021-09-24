@@ -56,11 +56,14 @@
   terraform init
   ```
   ![](imgs/tfinit.png)
+  
 - Run 
   ```sh
   terraform plan
   ```
   to see the changes that will be effected. If you are satisfied with everything.
+  ![](imgs/plan1.png)
+
   - Run
   ```sh
   terraform apply
